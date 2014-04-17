@@ -1,0 +1,17 @@
+{
+  "name": "page_demo",
+  "version": "0.0.0",
+  "description": "A demo app for page - the client-side router.",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "~0.8.1",
+    "page": "~1.3.7",
+    "superagent": "~0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toby Ho",
+  "license": "MIT"
+}
