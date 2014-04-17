@@ -5,7 +5,7 @@ A demo application to show off [Page](https://github.com/visionmedia/page.js) - 
 
 ## To Run
 
-I developed this app using [bff](https://github.com/airportyh/bff). Install bff via `npm install bff -g`, then run
+I developed this app using [Browserify](http://browserify.org/) and [bff](https://github.com/airportyh/bff). Install bff via `npm install bff -g`, then run
 
 ```
 bff server
